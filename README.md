@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## 欢迎加入潮汐涌浪
 
-You can use the [editor on GitHub](https://github.com/9712abc/Tidal-surges/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#春江潮水连海平，海上明月共潮生，欢迎加入TDS
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+始终憧憬着的璀璨星辰
 
-### Markdown
+我们似乎征服了这个曾经只能仰望和敬畏的存在
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+然而贪婪与暴力始终与我们相伴
 
-```markdown
-Syntax highlighted code block
+战争的肆虐一次次把我们推至毁灭的边缘
 
-# Header 1
-## Header 2
-### Header 3
+废墟中崛起更加伟大的文明
 
-- Bulleted
-- List
+我们似乎已经能够主宰一切
 
-1. Numbered
-2. List
+直到那一天
 
-**Bold** and _Italic_ and `Code` text
+神秘来客的毁灭之力
 
-[Link](url) and ![Image](src)
-```
+让自大的我们意识到自己竟是如此无知
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+惊醒的人们放下昨天的苦痛
 
-### Jekyll Themes
+前往银河更深处探求那背后的真相
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/9712abc/Tidal-surges/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+在这个世界中
 
-### Support or Contact
+你必须选择自己的道路
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+并且直面未来所有的一切
+
+新兴军团潮汐涌浪持续招新，无出勤要求，无缴税要求。团长和蔼可亲，大佬身手非凡，萌新巧捷万端。每一位前来新人都使我们更加强大！风里雨里，等待你的到来
+
+##军团信息
+军团名称：潮汐涌浪
+军团长：风谷麦芽
+军团长QQ：360444816
+军团官网：9712abc.github.io
+军团QQ群：471016248
+
