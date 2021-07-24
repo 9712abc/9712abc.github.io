@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head> 
-<meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
-</head>
-<body>
 
-<object data="logo.png"></object>
- 
-</body>
-</html>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1466696222&auto=1&height=66"></iframe>
 ## 欢迎加入潮汐涌浪
 
